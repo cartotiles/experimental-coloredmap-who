@@ -16,4 +16,4 @@ I downloaded the CSV data via 'Download Map Data' of https://who.sprinklr.com/ t
   
   
 # test map
-https://cartotile.github.io/experimental-coloredmap-who/docs/index.html  
+https://cartotiles.github.io/experimental-coloredmap-who/docs/index.html  
